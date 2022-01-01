@@ -206,6 +206,9 @@ internet conjoiner is an aggregator of high-value projects and investors, it als
 
 ### You can only stake FutuDAO (FUTU) for pairs in the IC pools. 
 
+<img width="512" alt="ULTRA ARTISTS" src="https://user-images.githubusercontent.com/87779563/147862244-28a0ae59-9bfd-40a0-9b3b-c6179a93c058.png">
+
+
 ## For the creators
 
 ### Propose your projects and join the ecosystem!
