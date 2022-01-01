@@ -24,6 +24,8 @@ ensuring a future at all times in history
 
 ## Eco
 
+<img width="596" alt="rICO PIE CHART" src="https://user-images.githubusercontent.com/87779563/147851915-c317e018-ce8d-4c1a-9737-1e65c1b917d1.png">
+
 ### rICO (RICO)
 (210000 tokens, UTILITY no max per wallet, tradable)
 0x0cba2584097f68a7ba4e221292aa0a53f8846e46
