@@ -34,7 +34,6 @@ ensuring a future at all times in history
 
 
 <img width="64" alt="rICO_RICO" src="https://user-images.githubusercontent.com/87779563/147861021-2e0d162b-c2c3-4b45-a5d2-5b780f340c26.png">
-
 ### rICO (RICO)
 ```markdown
 (210000 tokens, UTILITY no max per wallet, tradable)
@@ -43,7 +42,6 @@ ensuring a future at all times in history
 
 
 <img width="64" alt="Ultradao_FUTUXL" src="https://user-images.githubusercontent.com/87779563/147861024-4e0d3870-bdf9-4481-bf18-9405c76096ef.png">
-
 ### Ultrafund (FUTUXL)
 ```markdown
 (700000 tokens, GOVERNANCE & UTILITY no max per wallet, tradable)
@@ -52,7 +50,6 @@ ensuring a future at all times in history
 
 
 <img width="64" alt="FutuDAO_FUTU" src="https://user-images.githubusercontent.com/87779563/147861032-7d8b2023-62e0-4363-ad18-244a6e51a38f.png">
-
 ### FutuDAO (FUTU)
 ```markdown
 (70000 tokens on ETHEREUM network, airdrop only for active users of the DAO)
@@ -61,7 +58,6 @@ ensuring a future at all times in history
 
 
 <img width="64" alt="FutuToken_FUTU" src="https://user-images.githubusercontent.com/87779563/147861038-6211fb45-a621-4e7c-aec2-da1ffbbfaa22.png">
-
 ### FutuToken (FUTU)
 ```markdown
 (unlimited, GOVERNANCE token 1 max per wallet, not tradable)
