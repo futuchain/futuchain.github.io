@@ -38,6 +38,7 @@ ensuring a future at all times in history
 ### rICO (RICO)
 ```markdown
 (210000 tokens, UTILITY no max per wallet, tradable)
+
 0x0cba2584097f68a7ba4e221292aa0a53f8846e46
 ```
 
@@ -47,6 +48,7 @@ ensuring a future at all times in history
 ### Ultrafund (FUTUXL)
 ```markdown
 (700000 tokens, GOVERNANCE & UTILITY no max per wallet, tradable)
+
 0x07cfbd2de8ef0e6c4adaa9137c958f4d1037be81
 ```
 
@@ -57,6 +59,7 @@ ensuring a future at all times in history
 ### FutuDAO (FUTU)
 ```markdown
 (70000 tokens on ETHEREUM network, airdrop only for active users of the DAO)
+
 //contract not out yet, do not fall for scams we will announce this later 
 ```
 
@@ -67,6 +70,7 @@ ensuring a future at all times in history
 ### FutuToken (FUTU)
 ```markdown
 (unlimited, GOVERNANCE token 1 max per wallet, not tradable)
+
 0x8bfcc38ea21a15a355fb17d3e5e7412d31ca016b
 ```
 
@@ -96,7 +100,9 @@ BUY RICO
 -> ASK FOR A REQUEST TO JOIN ULTRADAO ->
 MAKE AND JOIN VOTES ON ULTRADAO 
 
-Community time: We drop nfts, community projects, continue with marketing, listen and develop your ideas, airdrops and so on, you get it, fun stuff happening in this sector (We dont want to ruin it, no rush)
+Community time: We drop nfts, community projects, continue with marketing, 
+listen and develop your ideas, airdrops and so on, you get it, 
+fun stuff happening in this sector (We dont want to ruin it, no rush)
 
 STILL HODLING RICO? -> YOU GET AN AIRDROP OF FUTUDAO (FUTU) TOKENS ->
 ->REQUEST IN ULTRADAO FOR AN EARLY ACCESS IN FUTUDAO ->
@@ -166,6 +172,8 @@ Each partner that will become an equity token holder will offer and also receive
 •complete decentralization 
 ```
 
+
+<img width="128" alt="ricofutuparty" src="https://user-images.githubusercontent.com/87779563/147861412-53db8de2-d4b6-4d79-a6c0-383b23ef453d.png">
 
 ## FUTUCHAIN in a nutshell: 
 
