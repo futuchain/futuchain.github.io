@@ -1,4 +1,4 @@
-![futulogo](https://user-images.githubusercontent.com/87779563/147860961-b9f03fb3-c40a-4ebe-a8e4-f9df90f3999e.png)
+<img width="256" alt="futulogo" src="https://user-images.githubusercontent.com/87779563/147860961-b9f03fb3-c40a-4ebe-a8e4-f9df90f3999e.png">
 
 
 ## Futuchain whitepaper & roadmap (work in progress - contracts not out yet, don't fall for scams please)
@@ -38,21 +38,21 @@ ensuring a future at all times in history
 
 
 ### Ultrafund (FUTUXL)
-![Ultradao_FUTUXL](https://user-images.githubusercontent.com/87779563/147861024-4e0d3870-bdf9-4481-bf18-9405c76096ef.png)
+<img width="64" alt="Ultradao_FUTUXL" src="https://user-images.githubusercontent.com/87779563/147861024-4e0d3870-bdf9-4481-bf18-9405c76096ef.png">
 (700000 tokens, GOVERNANCE & UTILITY no max per wallet, tradable)
 0x07cfbd2de8ef0e6c4adaa9137c958f4d1037be81
 
 
 
 ### FutuDAO (FUTU)
-![FutuDAO_FUTU](https://user-images.githubusercontent.com/87779563/147861032-7d8b2023-62e0-4363-ad18-244a6e51a38f.png)
+<img width="64" alt="FutuDAO_FUTU" src="https://user-images.githubusercontent.com/87779563/147861032-7d8b2023-62e0-4363-ad18-244a6e51a38f.png">
 (70000 tokens on ETHEREUM network, airdrop only for active users of the DAO)
 //contract not out yet, do not fall for scams we will announce this later 
 
 
 
 ### FutuToken (FUTU)
-![FutuToken_FUTU](https://user-images.githubusercontent.com/87779563/147861038-6211fb45-a621-4e7c-aec2-da1ffbbfaa22.png)
+<img width="64" alt="FutuToken_FUTU" src="https://user-images.githubusercontent.com/87779563/147861038-6211fb45-a621-4e7c-aec2-da1ffbbfaa22.png">
 (unlimited, GOVERNANCE token 1 max per wallet, not tradable)
 0x8bfcc38ea21a15a355fb17d3e5e7412d31ca016b
 
