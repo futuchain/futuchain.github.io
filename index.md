@@ -79,7 +79,7 @@ Welcome to the final DAO, FutuDAO
 
 ## IC Pools
 
-1 - You swap ETH for FUTU, making so you are investing in futuchain
+1 - You swap ETH for FutuDAO (FUTU), making so you are investing in futuchain (you can skip this part if you are already a FutuDAO FUTU holder)
 
 2 - We deeply search for new awesome projects and partnerships
 
@@ -87,18 +87,18 @@ Welcome to the final DAO, FutuDAO
 
 4 - Investors can now choose among the projects and vote for the best ones. We will make pools available based on the projects score after the vote is done. 
 
-5 - You can now stake your FUTU chosen pair and earn LP rewards while supporting the project. (Also remember that if you change your mind you can always claim back your committed ETH in every moment, just swap your tokens for ETH on your favourite DEX).
+5 - You can now stake your FutuDAO (FUTU) chosen pair and earn LP rewards while supporting the project. (Also remember that if you change your mind you can always claim back your committed ETH in every moment, just swap your tokens for ETH on your favourite DEX).
 
-6 - Now that your FUTU is sitting in your preferred pair pool with no locking period, you can claim your liquidity provider rewards overtime, you can choose to compound all in the same pool or hold the tokens reward in to your wallet, you can claim more governance presence swapping ETH for FUTU on your favourite DEX and stake those in more project active pools or just hold in your wallet for the monthly airdrops.
+6 - Now that your FutuDAO (FUTU) is sitting in your preferred pair pool with no locking period, you can claim your liquidity provider rewards overtime, you can choose to compound all in the same pool or hold the tokens reward in to your wallet, you can claim more governance presence swapping ETH for FutuDAO (FUTU) on your favourite DEX and stake those in more project active pools or just hold in your wallet for the monthly airdrops. Refreshing air. 
 
 7 - The projects have now access to more liquidity to improve development and advertise, this will lead to more visibility to bring more investors in and make them aware of the complete ecosystem. This will also affect your rewards and have a strong impact on the APR.
 
-8 - Also every listed project is an holder of the equity token FUTU. 
-This is for both creators and investors: The more FUTU you stake (or is staked) in your pool of choice, the more score the project gets. 
+8 - Also every listed project will probably be an holder of the equity token FutuDAO (FUTU). 
+This is for both creators and investors: The more FutuDAO (FUTU) you stake (or is staked) in your pool of choice, the more score the project will earn. 
 
 ## Partnership
 
-Each partner that will become an equity token holder will offer and also receive facilities from the other major holders who are members of the community. We thought of a great network of connections for every field, from restaurants, hotels, transport to shops and brands. Only FUTU knows what the future holds for us.
+Each partner that will become an equity token holder will offer and also receive facilities from the other major holders who are members of the community.
 
 —
 
