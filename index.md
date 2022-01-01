@@ -1,3 +1,5 @@
+<img width="841" alt="futulogolong" src="https://user-images.githubusercontent.com/87779563/147852100-5958d0e8-5fa8-4acc-aa23-9de8fa63a5e2.png">
+
 ## Futuchain whitepaper & roadmap (work in progress - contracts not out yet, don't fall for scams please)
 
 Establishing a new level of web governance by entering into international agreements with projects of high value for the rebirth of an IOT 3.0 
