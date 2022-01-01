@@ -13,6 +13,7 @@ FUTUCHAIN Decentralize collaborations between individuals and companies, simplif
 
 Solve the lack of decentralized connections between individuals and companies, give greater possibility to connect freely and anonymously in any place and time to companies and individuals open to collaborations and partnerships. 
 
+<img width="512" alt="futu explained" src="https://user-images.githubusercontent.com/87779563/147860952-245b138d-aeab-4264-b652-45965f345d4c.png">
 
 ## Solution
 
@@ -90,7 +91,9 @@ Connected to Polygon) through a request in the UltraDAO (you can always request 
 Once accepted, you will finally receive 1 FutuToken (FUTU) and be able to join votes in a reputationless DAO (FutuDAO) where every vote counts the same and everyone's proposals are equally important.
 
 
-<img width="512" alt="futu explained" src="https://user-images.githubusercontent.com/87779563/147860952-245b138d-aeab-4264-b652-45965f345d4c.png">
+![ecofutu](https://user-images.githubusercontent.com/87779563/147862088-c0b1c9b6-983c-4870-84b9-c5e9b8d32405.png)
+
+
 
 ```markdown
 //Summary:
