@@ -24,26 +24,27 @@ ensuring a future at all times in history
 
 ## Eco
 
-rICO (RICO) (210000 tokens, UTILITY no max per wallet, tradable)
+### rICO (RICO)
+(210000 tokens, UTILITY no max per wallet, tradable)
 0x0cba2584097f68a7ba4e221292aa0a53f8846e46
 
 
 
-Ultrafund (FUTUXL) (700000 tokens, GOVERNANCE & UTILITY no max per wallet, tradable)
+### Ultrafund (FUTUXL) 
+(700000 tokens, GOVERNANCE & UTILITY no max per wallet, tradable)
 0x07cfbd2de8ef0e6c4adaa9137c958f4d1037be81
 
 
 
-FutuToken (FUTU) (unlimited, GOVERNANCE token 1 max per wallet, not tradable)
+### FutuToken (FUTU)
+(unlimited, GOVERNANCE token 1 max per wallet, not tradable)
 0x8bfcc38ea21a15a355fb17d3e5e7412d31ca016b
 
 
 
-FutuDAO (FUTU) (70000 tokens on ETHEREUM network, airdrop only for active users of the DAO)
+### FutuDAO (FUTU) 
+(70000 tokens on ETHEREUM network, airdrop only for active users of the DAO)
 //contract not out yet, do not fall for scams we will announce this later 
-
-
-
 
 
 
@@ -61,8 +62,8 @@ Connected to Polygon) through a request in the UltraDAO (you can always request 
 Once accepted, you will finally receive 1 FutuToken (FUTU) and be able to join votes in a reputationless DAO (FutuDAO) where every vote counts the same and everyone's proposals are equally important.
 
 
-
-Summary:
+```markdown
+//Summary:
 
 BUY RICO 
 -> HOLD -> 
@@ -75,7 +76,8 @@ STILL HODLING RICO? -> YOU GET AN AIRDROP OF FUTUDAO (FUTU) TOKENS ->
 ->REQUEST IN ULTRADAO FOR AN EARLY ACCESS IN FUTUDAO ->
 ->GET ONE FUTUTOKEN (FUTU) GOVERNANCE TOKEN WHEN ACCEPTED
 
-Welcome to the final DAO, FutuDAO
+Welcome to the final DAO, FutuDAO//
+```
 
 ## IC Pools
 
