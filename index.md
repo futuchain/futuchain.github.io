@@ -30,8 +30,7 @@ ensuring a future at all times in history
 <img width="596" alt="rICO PIE CHART" src="https://user-images.githubusercontent.com/87779563/147851915-c317e018-ce8d-4c1a-9737-1e65c1b917d1.png">
 
 
-### rICO (RICO)
-<img width="64" alt="rICO_RICO" src="https://user-images.githubusercontent.com/87779563/147861021-2e0d162b-c2c3-4b45-a5d2-5b780f340c26.png">
+### rICO (RICO) <img width="64" alt="rICO_RICO" src="https://user-images.githubusercontent.com/87779563/147861021-2e0d162b-c2c3-4b45-a5d2-5b780f340c26.png">
 (210000 tokens, UTILITY no max per wallet, tradable)
 0x0cba2584097f68a7ba4e221292aa0a53f8846e46
 
