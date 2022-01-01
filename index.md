@@ -24,38 +24,58 @@ ensuring a future at all times in history
 
 ## Eco
 
-Futuchain: $FUTU=DeFi (erc 20)
+rICO (RICO) (210000 tokens, UTILITY no max per wallet, tradable)
+0x0cba2584097f68a7ba4e221292aa0a53f8846e46
 
-$RIST: semi decentralized(bsc)
 
-Futuchan: online community
 
-Internet conjoiner: collection of liquidity pools projects
+Ultrafund (FUTUXL) (700000 tokens, GOVERNANCE & UTILITY no max per wallet, tradable)
+0x07cfbd2de8ef0e6c4adaa9137c958f4d1037be81
 
-## Tokens
 
-### $FUTU
 
-Tokenomics $FUTU 
+FutuToken (FUTU) (unlimited, GOVERNANCE token 1 max per wallet, not tradable)
+0x8bfcc38ea21a15a355fb17d3e5e7412d31ca016b
 
-Total 7000000000 FUTU
 
-Development fund portfolio 
-1% of each transfer or exchange is added to futuristic engine's development portfolio 
 
-Waigoing capital duty By selling $FUTU, you will pay an exit fee of 10% of your sale, this percentage goes into a pool of liquidity dedicated to future airdrops and more development of the ecosystem. Giving up your governance token before the airdrop has been made will result in a loss of capital, only FUTU active addresses will receive the monthly airdrops.
+FutuDAO (FUTU) (70000 tokens on ETHEREUM network, airdrop only for active users of the DAO)
+//contract not out yet, do not fall for scams we will announce this later 
 
-### $RICO
 
-Total 1000000000000000 $RICO
 
-Tokenomics $RICO
 
-Liquidity growth 5% of each transfer or transaction is permanently added to liquidity 
 
-Development fund portfolio 5% of each transfer or exchange is added to futuristic engine's development portfolio 
 
-Frictionless yield holders of $RICO earn a passive income of 5% through static reflection 
+To join Futuchain DAO you must be a rICO (RICO) holder and ask a member to submit a request for you. 
+You then receive Ultrafund (FUTUXL) amount that matches your rICO (RICO) holding aka initial investment 
+You can now vote and make proposals for the UltraDAO (from futuchain)
+
+Community time. 
+After a long (maybe not so long) period of building and burning the roadmap steps, screenshot will happen and an airdrop of FutuDAO (FUTU) tokens will occur for all rICO (RICO) holders.
+
+FutuDAO (FUTU) token is a liqudity token, you can buy, sell, trade, pay. It also gives you the chance to access to the FutuDAO (futudao.aragonid.eth
+Connected to Polygon) through a request in the UltraDAO (you can always request but only FutuDAO (FUTU) token grants you chance to access the FutuDAO. 
+(Council will counter vote you 99% of times if FutuDAO token does not figure in your wallet)
+
+Once accepted, you will finally receive 1 FutuToken (FUTU) and be able to join votes in a reputationless DAO (FutuDAO) where every vote counts the same and everyone's proposals are equally important.
+
+
+
+Summary:
+
+BUY RICO 
+-> HOLD -> 
+-> ASK FOR A REQUEST TO JOIN ULTRADAO ->
+MAKE AND JOIN VOTES ON ULTRADAO 
+
+Community time: We drop nfts, community projects, continue with marketing, listen and develop your ideas, airdrops and so on, you get it, fun stuff happening in this sector (We dont want to ruin it, no rush)
+
+STILL HODLING RICO? -> YOU GET AN AIRDROP OF FUTUDAO (FUTU) TOKENS ->
+->REQUEST IN ULTRADAO FOR AN EARLY ACCESS IN FUTUDAO ->
+->GET ONE FUTUTOKEN (FUTU) GOVERNANCE TOKEN WHEN ACCEPTED
+
+Welcome to the final DAO, FutuDAO
 
 ## IC Pools
 
@@ -82,7 +102,7 @@ Each partner that will become an equity token holder will offer and also receive
 
 —
 
-## ROADMAP: 
+## ROADMAP(NON DEFINITIVE): 
 
 ```markdown
 ### 1 - Genesis 
@@ -93,30 +113,28 @@ Each partner that will become an equity token holder will offer and also receive
 
 ### 2 - First come first served 
 •reversible ICO (rICO)
-•campaign on social profiles to announce the launch of the token that will take place on pancake swap 
-•social contest + random aidrop of tokens $RICO to participants 
+•campaign on social profiles to announce the launch of the token that will take place on quickswap (MATIC)
+•social contest + random aidrop of tokens rICO (RICO) to participants 
 
 ### 3 - Futu~Rico 
 •first partnerships 
-•adding more $FUTU liquidity 
-•improvements to the website •monthly aidrop$ $FUTU
+•improvements to the website 
+•monthly Ultrafund (FUTUXL) aidrop$ to rICO (RICO) holders
 
 ### 4 - Futuristic engine 
-•Presentation of the IC internet conjoiner platform and publication of first projects and partnerships 
-•(NFTs) 
-•Launch of pools to invest directly in projects on the internet conjoiner using $RICO token
+•Release of the IC internet conjoiner platform and publication of first projects and partnerships 
+•Launch of pools to invest directly in projects on the internet conjoiner using rICO (RICO) token
 
 ### 5 - Futuchan 
-•nft presentation of artists from the Futuchain Futuchan community 
-•Launch first nfts
+•NFTs presentation of artists from the Futuchan community 
+•Community projects
 
 ### 6 - Internal Conjoined
-•events and meetings with project creators and community members 
-•Minting event tickets to certify episodes and keep representative NFTs forever 
+•Events and meetings with project creators and community members 
+•Minting of event tickets to certify episodes and keep representative NFTs forever 
 
 ### 7 - The futuristic conjoiner 
-•reduction of the transaction tax to 0.5% 
-•waiver of the contract 
+•waiver of the team tokens 
 •complete decentralization 
 ```
 
@@ -132,30 +150,34 @@ is the motto/incipit
 ### FUTUCHAN
 the given name to the online community
 
-### FUTU 
-is the governance token (equivalent of an equity token) ERC-20 circuit (until the completion of the blockchain)
+### FutuDAO (FUTU) (CONTRACT NOT OUT YET)
+is the governance & utility token that grants access to FutuDAO
 
-### RICO 
-is the initial reversible ico / utility token (lowest fees and fastest transactions) BSC Binance Smart Chain (until the completion of the blockchain) 
+### rICO (RICO) 
+is the initial reversible tradable ico / utility token, grants also chance to access Ultrafund (ultra.aragonid.eth) DAO
+
+### Ultrafund (FUTUXL) 
+is the governance token for the ultra.aragonid.eth DAO
+
+### FutuToken (FUTU)
+governance token avaible only in futudao.aragonid.eth DAO to vote and make proposals
 
 ### IC
-internet conjoiner is an aggregator of high-value projects and investors, it also allows you to collect liquidity through $FUTU token in a decentralized way allowing you to make changes to the investment at any time without blocked funds. 
+internet conjoiner is an aggregator of high-value projects and investors, it also allows you to collect liquidity through FutuDAO (FUTU) token in a decentralized way allowing you to make changes to the investment at any time without blocked funds. 
 
-### You can only stake $FUTU pairs in liquidity for IC projects. 
+### You can only stake FutuDAO (FUTU) for pairs in the IC pools. 
 
 ## For the creators
 
 ### Propose your projects and join the ecosystem!
 
-1 - First you’ll need your personal token to make possible for investir to provide liquidity  in a DeFi way. 
+1 - First you’ll need your personal token to make possible for investors to provide liquidity in a DeFi way. 
 
-2 - We accept and will always accept only audited tokens and eventually proceed to create a fresh one for your project’s pool.
+2 - Stake FutuDAO (FUTU) tokens in the pool and provide liquidity to set the price for the tokens pair and you are ready to start claiming your first LP rewards, more liquidity from investors and also gaining visibility thanks to the IC (Internet conjoiner) project’s pool score leaderboard
 
-3 - Stake FUTU tokens in tue pool and provide liquidity to set the price for the tokens pair and you are ready to start claiming your first LP rewards, more liquidity from investors and also gaining visibility thanks to the IC (Internet conjoiner) project’s pool score leaderboard
+3 - Fill the form on the official website to be selected.
 
-4 - Fill the form on the official website to be selected! You don’t have to buy FUTU tokens yet* but you can do it at any time if you want to support futuchain developement!
-
-*Major holders are not gaining score as the IC pools do, instead they are elegible to all the facilities offered by our partners. 
+*Major holders are not gaining score as the IC pools do, instead they are elegible to all the facilities offered by our partners. Stake it to earn LP.
 
 
 
