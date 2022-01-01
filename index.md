@@ -30,28 +30,26 @@ ensuring a future at all times in history
 <img width="596" alt="rICO PIE CHART" src="https://user-images.githubusercontent.com/87779563/147851915-c317e018-ce8d-4c1a-9737-1e65c1b917d1.png">
 
 
-### rICO (RICO) <img width="64" alt="rICO_RICO" src="https://user-images.githubusercontent.com/87779563/147861021-2e0d162b-c2c3-4b45-a5d2-5b780f340c26.png">
+<img width="64" alt="rICO_RICO" src="https://user-images.githubusercontent.com/87779563/147861021-2e0d162b-c2c3-4b45-a5d2-5b780f340c26.png">
+### rICO (RICO) 
 (210000 tokens, UTILITY no max per wallet, tradable)
 0x0cba2584097f68a7ba4e221292aa0a53f8846e46
 
 
-
-### Ultrafund (FUTUXL)
 <img width="64" alt="Ultradao_FUTUXL" src="https://user-images.githubusercontent.com/87779563/147861024-4e0d3870-bdf9-4481-bf18-9405c76096ef.png">
+### Ultrafund (FUTUXL)
 (700000 tokens, GOVERNANCE & UTILITY no max per wallet, tradable)
 0x07cfbd2de8ef0e6c4adaa9137c958f4d1037be81
 
 
-
-### FutuDAO (FUTU)
 <img width="64" alt="FutuDAO_FUTU" src="https://user-images.githubusercontent.com/87779563/147861032-7d8b2023-62e0-4363-ad18-244a6e51a38f.png">
+### FutuDAO (FUTU)
 (70000 tokens on ETHEREUM network, airdrop only for active users of the DAO)
 //contract not out yet, do not fall for scams we will announce this later 
 
 
-
-### FutuToken (FUTU)
 <img width="64" alt="FutuToken_FUTU" src="https://user-images.githubusercontent.com/87779563/147861038-6211fb45-a621-4e7c-aec2-da1ffbbfaa22.png">
+### FutuToken (FUTU)
 (unlimited, GOVERNANCE token 1 max per wallet, not tradable)
 0x8bfcc38ea21a15a355fb17d3e5e7412d31ca016b
 
