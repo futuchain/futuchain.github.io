@@ -31,7 +31,7 @@ ensuring a future at all times in history
 
 
 ### rICO (RICO)
-![rICO_RICO](https://user-images.githubusercontent.com/87779563/147861021-2e0d162b-c2c3-4b45-a5d2-5b780f340c26.png)
+<img width="512" alt="rICO_RICO" src="https://user-images.githubusercontent.com/87779563/147861021-2e0d162b-c2c3-4b45-a5d2-5b780f340c26.png">
 (210000 tokens, UTILITY no max per wallet, tradable)
 0x0cba2584097f68a7ba4e221292aa0a53f8846e46
 
