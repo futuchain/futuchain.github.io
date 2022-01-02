@@ -240,5 +240,12 @@ ensuring a future at all times in history
 [telegram announcements](https://t.me/futuchain/)
 
 [telegram community](https://t.me/futuchan/)
+
+[info](https://flow.page/futu/)
+
+[social and NFTs](http://lynkfire.com/futuchain)
+
+[discord](http://discord.gg/W7qBnQR7dA)
+
 ```
 
