@@ -215,11 +215,13 @@ internet conjoiner is an aggregator of high-value projects and investors, it als
 
 ### Propose your projects and join the ecosystem!
 
-1 - First you’ll need your personal token to make possible for investors to provide liquidity in a DeFi way. 
+1 - Hold rICO (RICO) from a Private sale 
 
-2 - Stake FutuDAO (FUTU) tokens in the pool and provide liquidity to set the price for the tokens pair and you are ready to start claiming your first LP rewards, more liquidity from investors and also gaining visibility thanks to the IC (Internet conjoiner) project’s pool score leaderboard
+2 - Join Ultrafund 
 
-3 - Fill the form on the official website to be selected.
+3 - Make a proposal
+
+You can find more info about this procedure in the official discord or telegram channels.
 
 *Major holders are not gaining score as the IC pools do, instead they are elegible to all the facilities offered by our partners. Stake it to earn LP.
 
