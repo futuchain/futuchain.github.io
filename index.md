@@ -59,7 +59,7 @@ ensuring a future at all times in history
 
 ### FutuDAO (FUTU)
 ```markdown
-(70000 tokens on ETHEREUM network, airdrop only for active users of the DAO)
+(70000 tokens on ETHEREUM network, airdrop only for active users of the Ultrafund DAO and rICO (RICO) Holders)
 
 //contract not out yet, do not fall for scams we will announce this later 
 ```
