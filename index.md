@@ -223,7 +223,6 @@ internet conjoiner is an aggregator of high-value projects and investors, it als
 
 You can find more info about this procedure in the official discord or telegram channels.
 
-*Major holders are not gaining score as the IC pools do, instead they are elegible to all the facilities offered by our partners. Stake it to earn LP.
 
 
 
