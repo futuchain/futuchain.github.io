@@ -1,7 +1,7 @@
 <img width="256" alt="futulogo" src="https://user-images.githubusercontent.com/87779563/147860961-b9f03fb3-c40a-4ebe-a8e4-f9df90f3999e.png">
 
 
-## Futuchain whitepaper & roadmap (work in progress - contracts not out yet, don't fall for scams please)
+## Futuchain whitepaper & roadmap (work in progress - futuchain.eth - FutuDAO Ticker: FUTU contract not avaible, do not fall for scams)
 
 Establishing a new level of web governance by entering into international agreements with projects of high value for the rebirth of an IOT 3.0 
 
