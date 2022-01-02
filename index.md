@@ -1,7 +1,7 @@
 <img width="256" alt="futulogo" src="https://user-images.githubusercontent.com/87779563/147860961-b9f03fb3-c40a-4ebe-a8e4-f9df90f3999e.png">
 
 
-## Futuchain whitepaper & roadmap (work in progress - futuchain.eth - FutuDAO Ticker: FUTU contract not avaible, do not fall for scams)
+## Futuchain whitepaper & roadmap (work is still in progress and changes may apply before public sale - futuchain.eth - FutuDAO Ticker: FUTU contract not avaible, do not fall for scams)
 
 Establishing a new level of web governance by entering into international agreements with projects of high value for the rebirth of an IOT 3.0 
 
@@ -42,6 +42,8 @@ ensuring a future at all times in history
 
 0x0cba2584097f68a7ba4e221292aa0a53f8846e46
 ```
+
+<img width="596" alt="token allocation futuxl" src="https://user-images.githubusercontent.com/87779563/147883032-3b050109-2cb2-4ac7-ac71-f490d3be6462.png">
 
 
 <img width="64" alt="Ultradao_FUTUXL" src="https://user-images.githubusercontent.com/87779563/147861024-4e0d3870-bdf9-4481-bf18-9405c76096ef.png">
