@@ -18,7 +18,8 @@ Solve the lack of decentralized connections between individuals and companies, g
 
 ## Solution
 
-Create a network of contacts between different sectors able to interact autonomously in the community and raise funds in a decentralized way thanks to the technology of the ERC-20 futuchain contract $FUTU. Equity token holders will be able to actively participate in the dao benefiting from all the facilities and partnerships, choosing whether to remain anonymous thanks to the security of the DeFi. Creators will be able to get in direct contact with investors by taking advantage of the IC internet conjoiner protocol, a platform that will list several projects that can be published through the purchase of FUTU tokens, thus becoming a token governance holder having the opportunity to take advantage of partnership and funding services.
+Create a network of contacts between different sectors able to interact autonomously in the community and raise funds in a decentralized way thanks to the technology of the ERC-20 contracts. Equity token holders will be able to actively participate in the dao benefiting from all the facilities and partnerships, choosing whether to remain anonymous thanks to the security of the DeFi. Creators will be able to get in direct contact with investors by taking advantage of the IC internet conjoiner protocol, a platform that will list several projects in the future.
+Becoming a token governance holder will grant the opportunity to take advantage of partnership and funding services.
 
 ```markdown
 futuristic conjoiner
@@ -145,37 +146,62 @@ Each partner that will become an equity token holder will offer and also receive
 ## ROADMAP(NON DEFINITIVE): 
 
 ```markdown
-### 1 - Genesis 
+
+
+### 1 - Genesis
+
 •Creation of official owner website 
 •Social networks, communities and web presence 
 •social rICO announcement
 
 
+
+
 ### 2 - First come first served 
-•reversible ICO (rICO)
-•campaign on social profiles to announce the launch of the token that will take place on quickswap (MATIC)
-•social contest + random aidrop of tokens rICO (RICO) to participants 
+
+•Reversible ICO (rICO)
+•Campaign on social profiles to announce the launch of the token that will take place on quickswap (MATIC)
+•Social contest + random aidrop of tokens rICO (RICO) to participants and active users
+
+
 
 ### 3 - Futu~Rico 
-•first partnerships 
-•improvements to the website 
-•monthly Ultrafund (FUTUXL) aidrop$ to rICO (RICO) holders
+
+•First partnerships 
+•Improvements to the websites and collections
+•Monthly Ultrafund (FUTUXL) aidrops to FUTUXL holders and best winning proposals
+
+
 
 ### 4 - Futuristic engine 
-•Release of the IC internet conjoiner platform and publication of first projects and partnerships 
-•Launch of pools to invest directly in projects on the internet conjoiner using rICO (RICO) token
 
-### 5 - Futuchan 
 •NFTs presentation of artists from the Futuchan community 
 •Community projects
 
-### 6 - Internal Conjoined
+
+
+### 5 - Futuchan 
+
 •Events and meetings with project creators and community members 
 •Minting of event tickets to certify episodes and keep representative NFTs forever 
 
+
+
+
+### 6 - Internal Conjoined
+
+•Release of the IC internet conjoiner platform 
+•More projects and partnerships 
+
+
+
+
 ### 7 - The futuristic conjoiner 
-•waiver of the team tokens 
-•complete decentralization 
+
+•Waiver of the total amount of team and foundation tokens by airdrops to holders
+•Complete decentralization 
+
+
 ```
 
 
@@ -192,17 +218,23 @@ is the motto/incipit
 ### FUTUCHAN
 the given name to the online community
 
-### FutuDAO (FUTU) (CONTRACT NOT OUT YET)
-is the governance & utility token that grants access to FutuDAO
-
 ### rICO (RICO) 
 is the initial reversible tradable ico / utility token, grants also chance to access Ultrafund (ultra.aragonid.eth) DAO
+-hold: get airdrops of FutuDAO in the future.
 
 ### Ultrafund (FUTUXL) 
 is the governance token for the ultra.aragonid.eth DAO
+-hold: unlimited per wallet, grants you access to votes in the ultrafund DAO, the more you hold the more reputation you own.
+
+### FutuDAO (FUTU) (CONTRACT NOT OUT YET)
+is the governance/utility token that grants you the possibility of airdrops and is also will be tradable and stackeable in the IC pools
+-hold: unlimited per wallet, get access to FUTU airdrops, the more you hold, the more the airdrop amount.
 
 ### FutuToken (FUTU)
 governance token avaible only in futudao.aragonid.eth DAO to vote and make proposals
+-hold: 1 max per wallet, grants you permission to interact with the FutuDAO contract
+
+
 
 ### IC
 internet conjoiner is an aggregator of high-value projects and investors, it also allows you to collect liquidity through FutuDAO (FUTU) token in a decentralized way allowing you to make changes to the investment at any time without blocked funds. 
@@ -216,9 +248,9 @@ internet conjoiner is an aggregator of high-value projects and investors, it als
 
 ### Propose your projects and join the ecosystem!
 
-1 - Hold rICO (RICO) from a Private sale 
+1 - Hold rICO (RICO) from a Private or public sale 
 
-2 - Join Ultrafund 
+2 - Join Ultrafund (Be active, ask members to make a proposal for you, they will be fair).
 
 3 - Make a proposal
 
@@ -231,7 +263,7 @@ You can find more info about this procedure in the official discord or telegram 
 ensuring a future at all times in history
 ```
 
-```markdown
+
 ### Support or Contact
 
 [reddit](https://www.reddit.com/r/futuchain/)
@@ -248,5 +280,5 @@ ensuring a future at all times in history
 
 [discord](http://discord.gg/W7qBnQR7dA)
 
-```
+
 
