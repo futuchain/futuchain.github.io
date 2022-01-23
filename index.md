@@ -42,7 +42,7 @@ ensuring a future at all times in history
 ```markdown
 (210000 tokens, UTILITY no max per wallet, tradable)
 
-0x0cba2584097f68a7ba4e221292aa0a53f8846e46
+
 ```
 
 <img width="596" alt="token allocation futuxl" src="https://user-images.githubusercontent.com/87779563/147883032-3b050109-2cb2-4ac7-ac71-f490d3be6462.png">
@@ -54,7 +54,7 @@ ensuring a future at all times in history
 ```markdown
 (700000 tokens, GOVERNANCE & UTILITY no max per wallet, tradable)
 
-0x07cfbd2de8ef0e6c4adaa9137c958f4d1037be81
+
 ```
 
 
@@ -65,7 +65,7 @@ ensuring a future at all times in history
 ```markdown
 (70000 tokens on ETHEREUM network, airdrop only for active users of the Ultrafund DAO and rICO (RICO) Holders)
 
-//contract not out yet, do not fall for scams we will announce this later 
+
 ```
 
 
@@ -76,7 +76,7 @@ ensuring a future at all times in history
 ```markdown
 (unlimited, GOVERNANCE token 1 max per wallet, not tradable)
 
-0x8bfcc38ea21a15a355fb17d3e5e7412d31ca016b
+
 ```
 
 
